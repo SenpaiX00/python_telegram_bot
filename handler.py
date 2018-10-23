@@ -9,7 +9,7 @@ sys.path.append(os.path.join(here, "./vendored"))
 import requests
 
 TOKEN = os.environ['TELEGRAM_TOKEN']
-URL = "https://api.telegram.org/bot{}".format(TOKEN)
+URL = "HERE"
 
 #Test to ensure the AWS API Gateway and webhooks are working into Telegram API.
 def bot(event, context):
