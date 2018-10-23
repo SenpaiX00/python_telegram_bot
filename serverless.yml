@@ -25,7 +25,7 @@ provider:
 #custom:
   #bucket: 
   environment:
-    TELEGRAM_TOKEN: '632691393:AAGiDdaiYpW6YtGL4NJECsQnV7TGnL0kpMY'
+    TELEGRAM_TOKEN: 'HERE'
 
 # you can add packaging information here
 #package:
